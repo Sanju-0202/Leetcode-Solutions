@@ -1,0 +1,38 @@
+# -------------------
+# Python
+# -------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+*.env
+.vscode/
+.idea/
+.DS_Store
+
+# -------------------
+# Java
+# -------------------
+*.class
+*.jar
+*.war
+*.ear
+target/
+bin/
+out/
+*.iml
+*.log
+*.ctxt
+
+# -------------------
+# OS / System
+# -------------------
+.DS_Store
+Thumbs.db
+
+# -------------------
+# Others
+# -------------------
+*.log
